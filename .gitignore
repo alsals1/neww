@@ -3,6 +3,7 @@
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
+a.txt
 __pycache__/
 *.py[cod]
 *$py.class
@@ -200,4 +201,3 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,python
-텍스트파일.txt
