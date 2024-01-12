@@ -2,3 +2,15 @@
 로컬에서 수정 
 git commit -am "ALTER 텍스트파일.txt"
 git push ori master
+
+gitignore
+특정한 파일이나 디렉토리는 추적하지 않도록 설정하는 것
+프로젝트에 공유하지 않을 파일
+
+파일.gitignore 파일을 생성 - 확장자 X
+a랑 b이름을 가진 텍파 생성
+gitignore파일에 >>a.txt<< 라고 작성
+git init
+git status
+이미 기존의 git의 관리를 받은 파일이나 디렉토리는 
+나중에  gitignore에 작성해도 적용되지 않는다. .
