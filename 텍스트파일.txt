@@ -1,1 +1,4 @@
 가나다라마바사
+로컬에서 수정 
+git commit -am "ALTER 텍스트파일.txt"
+git push ori master
